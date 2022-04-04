@@ -2,6 +2,8 @@
 
 This project was created with React and displays the meaning of emoji(s).
 
+<img width="1919" alt="Screenshot 2022-04-04 at 13 11 25" src="https://user-images.githubusercontent.com/97704332/161540983-368a068a-ec3a-402e-aac7-d0aedca92731.png">
+
 ## Installation
 
 Create a new React app from your chosen environment. I used VS Code and the [steps](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) can be found here.
